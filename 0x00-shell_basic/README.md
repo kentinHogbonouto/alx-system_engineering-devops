@@ -1,0 +1,2 @@
+-the pwd command dispaly the current working directory path
+- th ls command list all the directory and files in the current working directory path
