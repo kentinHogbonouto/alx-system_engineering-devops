@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u file0.html file1.html /tmp 
+cp -u 
