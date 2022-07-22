@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Bash script that displays pid process along with 
 
-pgrep -f bash
+pgrep -l bash
